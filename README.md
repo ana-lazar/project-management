@@ -4,6 +4,6 @@ The management system allows bug tracking, task handling and agile project manag
 
   - Distributed application: Client-Server
   - Communication protocol: HTTP
-  - Frontend: React (Javascript)
+  - Frontend: React (Typescript)
   - Backend: Spring (Java)
   - Persistence: Postgres database
